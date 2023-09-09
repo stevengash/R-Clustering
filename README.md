@@ -22,7 +22,7 @@ Hierarchical Clustering
 Optimal Number of Clusters
 1.	Determine the optimal number of clusters using the within-cluster sum of squares (WSS) method.
 2.	Visualize the clustering structure for three clusters based on the Ward linkage.
- 
+![image](https://github.com/stevengash/R-Clustering/assets/99188129/c31fa8f9-7915-4bce-a0e2-3fdaad7a9fad)
 Comparing K-means and Hierarchical Clustering
 1.	Group the data into three clusters using hierarchical clustering.
 2.	Compare the cluster assignments between K-means and hierarchical clustering.
