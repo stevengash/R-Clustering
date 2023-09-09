@@ -1,6 +1,7 @@
 # R-Clustering
-Advanced Clustering Methods Introduction
+Advanced Clustering Methods 
 ![image](https://github.com/stevengash/R-Clustering/assets/99188129/59f8b907-f576-47e7-ba17-a617a28cf4c8)
+Advanced Clustering Methods Introduction
 This R script performs advanced clustering analysis on a dataset of seeds. The analysis includes Principal Component Analysis (PCA), K-means clustering, hierarchical clustering, and visualization of clustering results. Below is a brief overview of the steps performed in this script.
 Steps
 Data Preprocessing
@@ -20,9 +21,10 @@ Hierarchical Clustering
 2.	Perform hierarchical clustering using complete, average, and Ward linkage methods.
 3.	Visualize the hierarchical clustering dendrograms.
 Optimal Number of Clusters
+![image](https://github.com/stevengash/R-Clustering/assets/99188129/c31fa8f9-7915-4bce-a0e2-3fdaad7a9fad)
 1.	Determine the optimal number of clusters using the within-cluster sum of squares (WSS) method.
 2.	Visualize the clustering structure for three clusters based on the Ward linkage.
-![image](https://github.com/stevengash/R-Clustering/assets/99188129/c31fa8f9-7915-4bce-a0e2-3fdaad7a9fad)
+ 
 Comparing K-means and Hierarchical Clustering
 1.	Group the data into three clusters using hierarchical clustering.
 2.	Compare the cluster assignments between K-means and hierarchical clustering.
